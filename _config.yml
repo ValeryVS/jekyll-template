@@ -1,0 +1,22 @@
+title: template
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - config.rb
+  - .git
+  - .bowerrc
+  - README.md
+gems:
+  - jekyll-assets
+
+assets:
+  sources:
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/bower_components
+  js_compressor:  uglifier
+  css_compressor: sass
+  gzip: false
