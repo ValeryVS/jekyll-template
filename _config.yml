@@ -17,6 +17,8 @@ assets:
     - _assets/images
     - _assets/javascripts
     - _assets/stylesheets
+    - _assets/bower_components/bootstrap-sass-twbs/assets/stylesheets
+    - _assets/bower_components/bootstrap-sass-twbs/assets/fonts
     - _assets/bower_components
   js_compressor:  uglifier
   css_compressor: sass
