@@ -2,6 +2,7 @@
 .assets
 .sass-cache
 _assets/bower_components
+_assets/images/sprite*.png
 _site
 
 .DS_Store
