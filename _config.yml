@@ -21,3 +21,5 @@ assets:
   js_compressor:  uglifier
   css_compressor: sass
   gzip: false
+
+host: 0.0.0.0
